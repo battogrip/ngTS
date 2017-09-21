@@ -1,0 +1,12 @@
+W
+09/21/2017  09:42 AM               195 1dataType.ts
+09/20/2017  09:01 AM                14 testNgTs.txt
+               2 File(s)            209 bytes
+               3 Dir(s)  119,032,184,832 bytes free
+
+C:\github\ngTS>tsc 1dataType.ts
+
+C:\github\ngTS>tsc --init
+message TS6071: Successfully created a tsconfig.json file.
+
+C:\github\ngTS>
