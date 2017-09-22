@@ -1,6 +1,6 @@
-function greeter(person:any) {
-    return "Hello, " + person;
+function greeter(person:string) {
+    return "Bonjour, " + person;
 }
 
-var user = "Imo";
+var user = "ImoCCCB";
 console.log(greeter(user));
