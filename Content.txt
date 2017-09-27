@@ -1,0 +1,12 @@
+https://www.typescriptlang.org/docs/home.html
+
+https://code.visualstudio.com/docs/editor/codebasics
+
+https://www.savjee.be/videos/
+
+vsCode snippets:
+log 
+ctor
+
+Compile and run:
+tsc arrow.ts && node arrow.js
